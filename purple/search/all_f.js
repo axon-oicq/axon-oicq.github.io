@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['offline_5fmessage_0',['offline_message',['../struct__PurplePluginProtocolInfo.html#aa5274a61d65e0771e0b20c2438a272ca',1,'_PurplePluginProtocolInfo']]],
+  ['old_5flogger_5fdata_1',['old_logger_data',['../structold__logger__data.html',1,'']]],
+  ['online_2',['online',['../struct__PurpleContact.html#a3b75e73a4aecdd780b2aa8b2bfc4f593',1,'_PurpleContact::online()'],['../struct__PurpleGroup.html#a1e7d6da0676a53dc2fe9ba7fa611bd9e',1,'_PurpleGroup::online()']]],
+  ['ops_3',['ops',['../struct__PurpleCipher.html#aa81ac2e6cdd726ed0fa8fb9cd16e5753',1,'_PurpleCipher::ops()'],['../struct__PurpleXfer.html#afa343fa7d3fecbaf935a0b7fed69458a',1,'_PurpleXfer::ops()']]],
+  ['opt_5fproto_5fchat_5ftopic_4',['OPT_PROTO_CHAT_TOPIC',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02ad05be7aac70a66837578e30cc9bb6420',1,'prpl.h']]],
+  ['opt_5fproto_5fim_5fimage_5',['OPT_PROTO_IM_IMAGE',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02ac794e518230f003dd7cea6e38e2e6608',1,'prpl.h']]],
+  ['opt_5fproto_5finvite_5fmessage_6',['OPT_PROTO_INVITE_MESSAGE',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02aad4cdb220d4a1bee35d3c68186863463',1,'prpl.h']]],
+  ['opt_5fproto_5fmail_5fcheck_7',['OPT_PROTO_MAIL_CHECK',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a77da73dbe2f718c4c7a9a2b21e7081c6',1,'prpl.h']]],
+  ['opt_5fproto_5fno_5fpassword_8',['OPT_PROTO_NO_PASSWORD',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a5821f08823a2aef44c6d8a2b223192da',1,'prpl.h']]],
+  ['opt_5fproto_5fpassword_5foptional_9',['OPT_PROTO_PASSWORD_OPTIONAL',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a87743a07e851a19f92be5d45b666def0',1,'prpl.h']]],
+  ['opt_5fproto_5fregister_5fnoscreenname_10',['OPT_PROTO_REGISTER_NOSCREENNAME',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02abe107156487bd1cf7c34a60b9d1b057d',1,'prpl.h']]],
+  ['opt_5fproto_5fslash_5fcommands_5fnative_11',['OPT_PROTO_SLASH_COMMANDS_NATIVE',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a30c3c8109661c0e91c4feda1b958eae2',1,'prpl.h']]],
+  ['opt_5fproto_5ftransient_5fbuddies_12',['OPT_PROTO_TRANSIENT_BUDDIES',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a26dabf7b11f3909e562451e748e2233b',1,'prpl.h']]],
+  ['opt_5fproto_5funique_5fchatname_13',['OPT_PROTO_UNIQUE_CHATNAME',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02ae89b2d50eb1738366db9898db560efc3',1,'prpl.h']]],
+  ['opt_5fproto_5fuse_5fpointsize_14',['OPT_PROTO_USE_POINTSIZE',['../prpl_8h.html#a766e7a0dcfe8c92068ecca710456fd02a51ddc54094dccd0d5f0fe161dfa91265',1,'prpl.h']]],
+  ['options_15',['options',['../struct__PurplePluginProtocolInfo.html#ac6f4772761159a3768f15de339934b9f',1,'_PurplePluginProtocolInfo::options()'],['../struct__PurplePounce.html#af05ece2b1d51dbf0d2d6bb7b000287d2',1,'_PurplePounce::options()']]],
+  ['outgoing_5fdescription_16',['outgoing_description',['../struct__PurpleAttentionType.html#ac11bcaf4ceb10c58eab280bd6c594260',1,'_PurpleAttentionType']]],
+  ['outptr_17',['outptr',['../struct__PurpleCircBuffer.html#a9282df7cb8bb4cc968362f122d706664',1,'_PurpleCircBuffer']]]
+];
