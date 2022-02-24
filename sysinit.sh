@@ -7,6 +7,13 @@ fi
 
 reset
 
+cat > /etc/apt/sources.list << EOF
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-updates main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian/ bullseye-backports main contrib non-free
+deb http://mirrors.tuna.tsinghua.edu.cn/debian-security bullseye-security main contrib non-free
+EOF
+
 echo -e "\e[1;44m正在安装必要软件...\e[m"
 
 apt update
