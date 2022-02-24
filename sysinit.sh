@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+if [ "$EUID" -ne 0 ]
+  then echo "\e[1;41;33m请以 ROOT 运行！\e[m"
+  exit
+fi
+
 reset
 
 echo -e "\e[1;44m正在安装必要软件...\e[m"
@@ -41,7 +46,3 @@ apt install nginx -y
 systemctl start nginx
 
 apt upgrade
-
-cat > $0 << EOF
-echo -e "\e[1;41;33mError connecting to socket. Aborting operation.\e[m"
-EOF
